@@ -18,6 +18,11 @@ Flow divides the normal miner validator relationship into 4 new roles Collector 
 
 ## Why This Matters:
 
+THe reason Dapper Labs is important is because of their Flow Blockchain. Unlike other blockchains the Flow bloackchain is made for developer ease. Flow does this by offering built-in logging support, upgradeable smart contracts so that you can easily patch bugs, and fast guarantee the a transaction was executed on the blockchain. Flow also comes with it's own easy to use programming language called Cadence.
+
+## Why This May be Interesting
+
+Dapper Labs and what they are doing with their Flow blockchain is interesting because it opens up the ability to apply blockchain in realms outside of finance and business. By giving developers a platform to easily and quickly make apps we can see blockchain be used for many other things like games and application. 
 
 
 
