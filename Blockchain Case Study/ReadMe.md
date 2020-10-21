@@ -24,6 +24,12 @@ THe reason Dapper Labs is important is because of their Flow Blockchain. Unlike 
 
 Dapper Labs and what they are doing with their Flow blockchain is interesting because it opens up the ability to apply blockchain in realms outside of finance and business. By giving developers a platform to easily and quickly make apps we can see blockchain be used for many other things like games and application. 
 
+## Resources:
+
+* Technical information: [Flow Primer](https://www.onflow.org/primer) 
+* Flow Features: [Flow Home Page](https://www.onflow.org/)
+* Dapper Labs Product info: [Dapper Labs Home Page](https://www.dapperlabs.com/)
+* Dapper Labs COmpany info: [Company info](https://www.bctechnology.com/news/2020/8/11/Vancouver-based-Blockchain-Company-Dapper-Labs-Closes-12-Million-in-New-Financing.cfm)
 
 
 
